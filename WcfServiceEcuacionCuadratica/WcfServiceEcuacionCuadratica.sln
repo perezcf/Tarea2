@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceEcuacionCuadratica", "WcfEcuacionCuadratica\WcfServiceEcuacionCuadratica.csproj", "{B0A3DD76-2C69-4259-9D02-5BA1D40089AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceEcuacionCuadratica.Test", "WcfServiceEcuacionCuadratica.Test\WcfServiceEcuacionCuadratica.Test.csproj", "{33E20B33-1200-4F5B-81BE-D08776F50171}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B0A3DD76-2C69-4259-9D02-5BA1D40089AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0A3DD76-2C69-4259-9D02-5BA1D40089AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0A3DD76-2C69-4259-9D02-5BA1D40089AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E20B33-1200-4F5B-81BE-D08776F50171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E20B33-1200-4F5B-81BE-D08776F50171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E20B33-1200-4F5B-81BE-D08776F50171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E20B33-1200-4F5B-81BE-D08776F50171}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
